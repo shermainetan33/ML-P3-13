@@ -1,1 +1,1 @@
-Upload both the CSV files into our Google Colab before running the code
+1. Upload both the CSV files into our Google Colab before running the code
